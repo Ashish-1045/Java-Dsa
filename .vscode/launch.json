@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ques",
+      "request": "launch",
+      "mainClass": "ques",
+      "projectName": "java programing_eeb61a22"
+    },
+    {
+      "type": "java",
       "name": "binTOdec",
       "request": "launch",
       "mainClass": "binTOdec",
